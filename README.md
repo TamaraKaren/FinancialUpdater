@@ -87,6 +87,7 @@ El objetivo principal es eliminar la recolección manual de datos y proporcionar
 ## Capturas de Pantalla (Ejemplos)
 
 ![f19137a5-4867-40b7-b308-efa344dcc857](https://github.com/user-attachments/assets/8996fb7f-a11e-4093-9934-e30d0b13f09f)
+![563143ae-e228-4b96-a890-3dd45a774530](https://github.com/user-attachments/assets/547286e6-d730-4118-8d7a-10b486f56bec)
 ![image](https://github.com/user-attachments/assets/7c9d1c65-7845-43dc-b90c-faf4a7fb1bc3)
 
 ## Mejoras Futuras Posibles
