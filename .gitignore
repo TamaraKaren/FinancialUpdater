@@ -1,0 +1,19 @@
+# Entorno Virtual
+venv/
+.venv/
+
+# Archivos compilados de Python y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs (Opcional: si no quieres versionar los logs)
+Logs/
+
+# Archivos de credenciales (¡NUNCA SUBIR!)
+credentials.json
+*.env
